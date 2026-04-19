@@ -1,0 +1,36 @@
+2026-04-19 15:47:54,122 - INFO - Start BoW training
+2026-04-19 15:47:54,122 - INFO - Vocabulary size: 15210, Num classes: 5, Epochs: 30, Batch size: 64, Learning rate: 0.001, Loss: cross_entropy, L2 lambda: 0.0001
+2026-04-19 15:47:57,007 - INFO - Epoch [1/30] Train Loss: 1.5219 Val Loss: 1.4642 Train Acc: 0.5166 Val Acc: 0.4297 L2 Term: 364.3762
+2026-04-19 15:47:57,496 - INFO - Epoch [2/30] Train Loss: 1.3905 Val Loss: 1.4180 Train Acc: 0.5570 Val Acc: 0.4402 L2 Term: 2064.5484
+2026-04-19 15:47:58,115 - INFO - Epoch [3/30] Train Loss: 1.3005 Val Loss: 1.3853 Train Acc: 0.6050 Val Acc: 0.4455 L2 Term: 5216.8654
+2026-04-19 15:47:58,717 - INFO - Epoch [4/30] Train Loss: 1.2255 Val Loss: 1.3600 Train Acc: 0.6542 Val Acc: 0.4537 L2 Term: 9562.4501
+2026-04-19 15:47:59,326 - INFO - Epoch [5/30] Train Loss: 1.1623 Val Loss: 1.3392 Train Acc: 0.6963 Val Acc: 0.4578 L2 Term: 14842.6792
+2026-04-19 15:47:59,895 - INFO - Epoch [6/30] Train Loss: 1.1082 Val Loss: 1.3224 Train Acc: 0.7219 Val Acc: 0.4654 L2 Term: 20843.0521
+2026-04-19 15:48:00,476 - INFO - Epoch [7/30] Train Loss: 1.0620 Val Loss: 1.3085 Train Acc: 0.7446 Val Acc: 0.4666 L2 Term: 27325.5763
+2026-04-19 15:48:01,066 - INFO - Epoch [8/30] Train Loss: 1.0221 Val Loss: 1.2968 Train Acc: 0.7644 Val Acc: 0.4707 L2 Term: 34074.3965
+2026-04-19 15:48:01,641 - INFO - Epoch [9/30] Train Loss: 0.9875 Val Loss: 1.2871 Train Acc: 0.7804 Val Acc: 0.4754 L2 Term: 41032.7875
+2026-04-19 15:48:02,200 - INFO - Epoch [10/30] Train Loss: 0.9573 Val Loss: 1.2787 Train Acc: 0.7995 Val Acc: 0.4748 L2 Term: 48008.8629
+2026-04-19 15:48:02,761 - INFO - Epoch [11/30] Train Loss: 0.9311 Val Loss: 1.2716 Train Acc: 0.8100 Val Acc: 0.4760 L2 Term: 54946.7799
+2026-04-19 15:48:03,287 - INFO - Epoch [12/30] Train Loss: 0.9076 Val Loss: 1.2654 Train Acc: 0.8225 Val Acc: 0.4730 L2 Term: 61888.4001
+2026-04-19 15:48:03,914 - INFO - Epoch [13/30] Train Loss: 0.8869 Val Loss: 1.2604 Train Acc: 0.8316 Val Acc: 0.4748 L2 Term: 68629.7491
+2026-04-19 15:48:04,681 - INFO - Epoch [14/30] Train Loss: 0.8686 Val Loss: 1.2559 Train Acc: 0.8392 Val Acc: 0.4789 L2 Term: 75177.8525
+2026-04-19 15:48:05,471 - INFO - Epoch [15/30] Train Loss: 0.8522 Val Loss: 1.2523 Train Acc: 0.8483 Val Acc: 0.4795 L2 Term: 81491.3655
+2026-04-19 15:48:06,381 - INFO - Epoch [16/30] Train Loss: 0.8373 Val Loss: 1.2489 Train Acc: 0.8522 Val Acc: 0.4777 L2 Term: 87634.9695
+2026-04-19 15:48:07,222 - INFO - Epoch [17/30] Train Loss: 0.8240 Val Loss: 1.2461 Train Acc: 0.8584 Val Acc: 0.4812 L2 Term: 93615.8370
+2026-04-19 15:48:08,085 - INFO - Epoch [18/30] Train Loss: 0.8120 Val Loss: 1.2442 Train Acc: 0.8631 Val Acc: 0.4807 L2 Term: 99303.2517
+2026-04-19 15:48:08,865 - INFO - Epoch [19/30] Train Loss: 0.8012 Val Loss: 1.2418 Train Acc: 0.8716 Val Acc: 0.4807 L2 Term: 104819.5967
+2026-04-19 15:48:09,569 - INFO - Epoch [20/30] Train Loss: 0.7912 Val Loss: 1.2404 Train Acc: 0.8726 Val Acc: 0.4818 L2 Term: 110099.5950
+2026-04-19 15:48:10,381 - INFO - Epoch [21/30] Train Loss: 0.7822 Val Loss: 1.2389 Train Acc: 0.8798 Val Acc: 0.4824 L2 Term: 115115.7853
+2026-04-19 15:48:11,021 - INFO - Epoch [22/30] Train Loss: 0.7738 Val Loss: 1.2376 Train Acc: 0.8810 Val Acc: 0.4830 L2 Term: 120035.2815
+2026-04-19 15:48:11,819 - INFO - Epoch [23/30] Train Loss: 0.7662 Val Loss: 1.2369 Train Acc: 0.8851 Val Acc: 0.4848 L2 Term: 124652.6190
+2026-04-19 15:48:12,516 - INFO - Epoch [24/30] Train Loss: 0.7594 Val Loss: 1.2360 Train Acc: 0.8882 Val Acc: 0.4848 L2 Term: 129098.8247
+2026-04-19 15:48:13,036 - INFO - Epoch [25/30] Train Loss: 0.7529 Val Loss: 1.2352 Train Acc: 0.8920 Val Acc: 0.4848 L2 Term: 133376.2987
+2026-04-19 15:48:13,653 - INFO - Epoch [26/30] Train Loss: 0.7470 Val Loss: 1.2350 Train Acc: 0.8946 Val Acc: 0.4818 L2 Term: 137449.5605
+2026-04-19 15:48:14,424 - INFO - Epoch [27/30] Train Loss: 0.7416 Val Loss: 1.2343 Train Acc: 0.8959 Val Acc: 0.4830 L2 Term: 141359.9388
+2026-04-19 15:48:15,171 - INFO - Epoch [28/30] Train Loss: 0.7365 Val Loss: 1.2340 Train Acc: 0.8984 Val Acc: 0.4842 L2 Term: 145156.2517
+2026-04-19 15:48:15,992 - INFO - Epoch [29/30] Train Loss: 0.7318 Val Loss: 1.2345 Train Acc: 0.8999 Val Acc: 0.4848 L2 Term: 148730.1683
+2026-04-19 15:48:16,848 - INFO - Epoch [30/30] Train Loss: 0.7275 Val Loss: 1.2341 Train Acc: 0.9019 Val Acc: 0.4818 L2 Term: 152226.6379
+2026-04-19 15:48:17,212 - INFO - Training finished
+2026-04-19 15:48:17,212 - INFO - BoW Train Accuracy: 0.8851
+2026-04-19 15:48:17,212 - INFO - BoW Validate Accuracy: 0.4848
+2026-04-19 15:48:17,212 - INFO - BoW Test Accuracy: 0.4890
