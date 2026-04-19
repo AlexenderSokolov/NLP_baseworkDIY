@@ -1,4 +1,4 @@
-# NLP Basework
+# NLP Basework DIY(updating)
 
 ## 中文简介
 这是一个用于练习 NLP 基础结构的 DIY 项目。核心逻辑手写，用vibe coding辅助实现了画图、日志等辅助功能。
